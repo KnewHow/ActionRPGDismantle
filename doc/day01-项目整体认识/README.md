@@ -139,3 +139,9 @@ UI相关的贴图
 一些基础的 C++ 类，例如`RPGCharacterBase`
 
 ![image-20200625220742846](./images/image-20200625220742846.png)
+
+
+
+## 4 GameMode
+
+![image-20200626190016522](./images/image-20200626190016522.png)
