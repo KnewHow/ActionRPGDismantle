@@ -116,4 +116,15 @@ bool ARPGPlayerControllerBase::LoadInventory()
 }
 ```
 
-明天我们再来进一步研究细节。
+而此方法在`ARPGPlayerControllerBase::BeginPlayer`的方法中进行了调用，也就是在此刻初始化了背包：
+
+```c++
+void ARPGPlayerControllerBase::BeginPlay()
+{
+	// Load inventory off save game before starting play
+	LoadInventory();
+
+	Super::BeginPlay();
+}
+```
+
