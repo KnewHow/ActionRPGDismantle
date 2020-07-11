@@ -30,7 +30,7 @@
 
 ### 1.5 SpawnNewWave
 
-![image-20200710203649655](./images/image-20200710203649655.png)
+![image-20200711103426115](./images/image-20200711103426115.png)
 
 显示的UI:
 
@@ -48,13 +48,13 @@
 
 ### 1.8 CheckCurrentWave
 
-![image-20200710204303033](./images/image-20200710204303033.png)
+![image-20200711103607749](./images/image-20200711103607749.png)
 
 ### 1.9 OnWaveFinish
 
 ![image-20200710204402147](./images/image-20200710204402147.png)
 
-对于的UI:
+对应的UI:
 
 ![image-20200710204437950](./images/image-20200710204437950.png)
 
