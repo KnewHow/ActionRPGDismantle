@@ -48,6 +48,8 @@
 
 结论：和注释说明的一样，在控制角色调用`Possessed`,在离开控制时调用`UnPossessed`。
 
+代码演示参考：https://www.youtube.com/watch?v=RwtCfMMMt7M
+
 ## 2 源码追踪
 
 ![image-20200713221910655](./images/image-20200713221910655.png)
